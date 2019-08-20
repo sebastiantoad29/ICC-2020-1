@@ -1,0 +1,13 @@
+Linea 9: Cambié booleaN por boolean (tipo de dato), ya que el primero no existe.
+Linea 9: El tipo de dato boolean, solo puede ser true o false, cambié por false.
+Linea 10: Tipo byte, solo acepta hasta 127, se corrigió de 128 a 127
+Linea 11: El tipo de dato short, solo acepta -32768, se corrigió de -32769 a -32768.
+Linea 14: Se cambia el tipo de dato long por double, ya que se está trabajando con double.
+Linea 14: Está escrito (Discriminante) cuando deberia ser (discriminante) por la variable que se está declarando.
+Linea 17: El tipo de dato está escrito como Char, cuando debería ser solamente char.
+Linea 18: Al asignar el valor a ch1, está mal escrito ya que solo está ch, por lo tanto
+basta con agregar 1, para que ch1 pueda tomar un valor.
+Linea 18: El tipo de dato char solo puede tomar valor de un carácter y además es escrito entre comillas simples. 'w'
+
+El error de ejecución se produce al dividir entre 0, 1/(a-3), ya que a es igual a 3, cambié el 3 por 2, para que su
+resultado fuera 1.
