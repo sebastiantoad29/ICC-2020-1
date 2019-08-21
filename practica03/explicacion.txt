@@ -1,0 +1,12 @@
+PrePost.java
+Este programa lo que hace es decrementar x, entonces cuando llega al número 18, decrementa a 17 y de ahí aparece lo siguiente
+x--, lo que hará el siguiente comando es aparecer x y despues decrementar, esa es la razón por la que aparecen dos veces 17,
+para que en la siguiente línea que es x, solo aparezca 16, debido a que ya se había decrementado.
+
+Operadores.java
+(dividendoEntero / divisor)=
+Son la misma división, la razón de diferencia de resultado es porque el tipo de dato es entero, por lo que no muestra
+números decimales, es decir, numeros reales.
+
+(dividendoReal / divisor)=
+En esta división ya encontramos el tipo de dato double, es por eso que nos imprime un número con decimales.
